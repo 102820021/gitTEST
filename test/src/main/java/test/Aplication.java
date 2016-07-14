@@ -8,4 +8,7 @@ public class Aplication {
         System.out.print("½Ð¿é¤J¦WºÙ¡G");
         System.out.println("OKOKOKOKOKOKOKOK");
     }
+	/*
+	 *changeA 
+	*/
 }
